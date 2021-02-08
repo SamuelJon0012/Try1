@@ -110,7 +110,7 @@ function App() {
   return (
     <Fragment>
       <div className="container">
-        <h2>Course: changed</h2>
+        <h2>Course: changed by top developer</h2>
         <ul>
           {Array.isArray(COURSE_LIST) &&
             COURSE_LIST.map(data => {
